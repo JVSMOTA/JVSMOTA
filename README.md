@@ -2,6 +2,9 @@
 
 <!-- About me -->
 ## About me 
+
+- I'm João Mota, 22 years old and I really like programming.
+
 - Graduating in Computer Science at the Federal University of Campina Grande - Paraíba.
 
 - I am currently studying Java Spring Boot: 
