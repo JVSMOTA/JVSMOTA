@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github Profile</h1>
+<h1 align="center">Hi! I'm João Vitor Mota.</h1>
 
 <!-- Informações Pessoais -->
 ## 📋 Personal Information
@@ -8,13 +8,6 @@
 - **Location:** Campina Grande - PB, Brazil.
 - **Gender:** Male
 - **Education :** Graduating in Computer Science at the Federal University of Campina Grande - Paraíba.
-
-<!-- Tabela de GitHub Status -->
-<h2 align="center">
-
-![JVSMOTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVSMOTA&show_icons=true&theme=transparent)
-
-</h2>
 
 <!-- Lista de Redes para Contato -->
 ## ✉️ Contact
