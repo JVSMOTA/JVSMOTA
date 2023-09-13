@@ -6,7 +6,6 @@
 - **Name:** João Vitor Mota
 - **Age:** 21 years old
 - **Location:** Campina Grande - PB, Brazil.
-- **Gender:** Male
 - **Education :** Graduating in Computer Science at the Federal University of Campina Grande - Paraíba.
 
 <!-- Lista de Redes para Contato -->
