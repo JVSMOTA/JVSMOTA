@@ -16,7 +16,7 @@
 
 <p> 
 
-Feel free to reach out to me via **email**: [joao.mota@ccc.ufcg.edu.br](mailto:joao.mota@ccc.ufcg.edu.br), or access the **links below**:
+Feel free to reach out to me via **email**: [jvmota.sb@gmail.com](mailto:jvmota.sb@gmail.com), or access the **links below**:
 
 </p>
 
