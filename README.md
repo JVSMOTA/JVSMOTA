@@ -8,6 +8,9 @@
 - **Location:** Campina Grande - PB, Brazil.
 - **Education:** Graduating in Computer Science at the Federal University of Campina Grande - Paraíba.
 - **Technologies:** 🎨 CSS3, 🌐 HTML5, 🐍 Python, ☕ Java, 🍃 Spring Boot and 📄 TypeScript.
+- **Learning:** Currently learning Mobile development with React Native. 📱
+- **Reading:** Clean Code.
+
 
 <!-- Lista de Redes para Contato -->
 ## ✉️ Contact
