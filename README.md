@@ -8,6 +8,12 @@
 - **Technologies:** 🎨 CSS3, 🌐 HTML5, 🐍 Python, ☕ Java, 🍃 Spring Boot and 📄 TypeScript.
 - **Reading:** Clean Code.
 
+<div align="center">
+
+![JVSMOTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVSMOTA&show_icons=true&theme=transparent)
+
+<div>
+
 <!-- Lista de Redes para Contato -->
 ## ✉️ Contact
 
