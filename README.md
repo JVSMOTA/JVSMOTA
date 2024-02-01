@@ -29,9 +29,3 @@ Feel free to reach out to me via **email**: [jvmota.sb@gmail.com](mailto:jvmota.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583996193212)
 
 </div>
-
-<div align="right">
-  
-[![HitCount](https://hits.dwyl.com/JVSMOTA/JVSMOTA.svg?style=flat-square)](http://hits.dwyl.com/JVSMOTA/JVSMOTA)
-
-</div>
