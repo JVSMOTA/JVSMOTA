@@ -4,7 +4,7 @@
 - **Name:** João Vitor Mota
 - **Age:** 22 years old
 - **Location:** Campina Grande - PB, Brazil.
-- **Education:** Graduating in Computer Science at the Federal University of Campina Grande - Paraíba (2022 - Present).
+- **Education:** Graduating in Computer Science at the Federal University of Campina Grande - Paraíba (2020 - Present).
 - **Technologies:** 🎨 CSS3, 🌐 HTML5, 🐍 Python, ☕ Java, 🍃 Spring Boot and 📄 TypeScript.
 - **Reading:** Clean Code.
 
