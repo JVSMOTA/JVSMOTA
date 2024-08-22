@@ -12,7 +12,7 @@
 
 <pre><i>The light sound of thunder, the cloudy sky, maybe rain will come.</i></pre>
 
-![JVSMOTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVSMOTA&show_icons=true&theme=transparent)
+<!-- ![JVSMOTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVSMOTA&show_icons=true&theme=transparent) -->
 
 <div>
 
