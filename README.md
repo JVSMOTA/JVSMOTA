@@ -6,7 +6,6 @@
 - **Location:** Campina Grande - PB, Brazil.
 - **Education:** Graduating in Computer Science at the Federal University of Campina Grande - Paraíba (2020 - Present).
 - **Technologies:** 🎨 CSS3, 🌐 HTML5, 🐍 Python, ☕ Java, 🍃 Spring Boot and 📄 TypeScript.
-- **Reading:** Clean Code.
 
 <div align="center">
 
