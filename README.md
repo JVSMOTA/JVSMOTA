@@ -1,12 +1,6 @@
 <!-- Informações Pessoais -->
 ## 📋 Personal Information
 
-<div align="right">
-
-[![Hits](https://hits.sh/github.com/JVSMOTA.svg?color=0077B5)](https://hits.sh/github.com/JVSMOTA/)
-
-</div>
-
 - **Name:** João Vitor Mota
 - **Age:** 23 years old
 - **Location:** Campina Grande - PB, Brazil.
@@ -32,6 +26,7 @@ Feel free to reach out to me via **email**: [jvmota.sb@gmail.com](mailto:jvmota.
 
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvsmota/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5)](https://www.linkedin.com/in/jvsmota/)
+[![Hits](https://hits.sh/github.com/JVSMOTA.svg?color=0077B5)](https://hits.sh/github.com/JVSMOTA/)
 
 </div>
