@@ -1,6 +1,12 @@
 <!-- Informações Pessoais -->
 ## 📋 Personal Information
 
+<div align="right">
+
+[![Hits](https://hits.sh/github.com/JVSMOTA.svg?color=0077B5)](https://hits.sh/github.com/JVSMOTA/)
+
+</div>
+
 - **Name:** João Vitor Mota
 - **Age:** 23 years old
 - **Location:** Campina Grande - PB, Brazil.
