@@ -19,11 +19,10 @@
 
 <div align="center">
 
-> [!IMPORTANT]
-> Feel free to reach out to me via **email**: [jvmota.sb@gmail.com](mailto:jvmota.sb@gmail.com), or access the **links below**:
-> 
-> [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5)](https://www.linkedin.com/in/jvsmota/)
-> ![Hits](https://hits.sh/github.com/JVSMOTA.svg?color=0077B5)
->
+
+Feel free to reach out to me via **email**: [jvmota.sb@gmail.com](mailto:jvmota.sb@gmail.com), or access the **links below**:
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5)](https://www.linkedin.com/in/jvsmota/)
+![Hits](https://hits.sh/github.com/JVSMOTA.svg?color=0077B5)
 
 </div>
