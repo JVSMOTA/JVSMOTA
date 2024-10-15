@@ -24,8 +24,6 @@ Feel free to reach out to me via **email**: [jvmota.sb@gmail.com](mailto:jvmota.
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5)](https://www.linkedin.com/in/jvsmota/)
 ![Hits](https://hits.sh/github.com/JVSMOTA.svg?color=0077B5)
 
-<!-- ![JVSMOTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVSMOTA&show_icons=true&theme=transparent) -->
-
 </div>
  
 
