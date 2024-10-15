@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<pre><i>The light sound of thunder, the cloudy sky, maybe rain will come.</i></pre>
+<pre><i>Discipline equals Freedom.</i></pre>
 
 </div>
  
